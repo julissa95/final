@@ -1,0 +1,17 @@
+{"Patente":"aaaa","fechaIngreso":1571632011}
+{"Patente":"dvm365","fechaIngreso":1571632216}
+{"Patente":null,"fechaIngreso":1573419557}
+{"Patente":null,"fechaIngreso":1573420384}
+{"Patente":null,"fechaIngreso":1573928418}
+{"Patente":"dvm365","fechaIngreso":1574822829}
+{"Patente":"lll","fechaIngreso":1574823204}
+{"Patente":"ttt444","fechaIngreso":1574824175}
+{"Patente":"dvm365","fechaIngreso":1574824202}
+{"Patente":"qqq456","fechaIngreso":1574869104}
+{"Patente":"lll456","fechaIngreso":1574869258}
+{"Patente":"qqq123","fechaIngreso":1574869670}
+{"Patente":"qaz123","fechaIngreso":1576342683}
+{"Patente":"wer","fechaIngreso":1576350973}
+{"Patente":"qeq123","fechaIngreso":1576355019}
+{"Patente":"zzz555","fechaIngreso":1576355461}
+{"Patente":"nnn123","fechaIngreso":1576355605}
